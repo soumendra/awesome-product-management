@@ -62,10 +62,10 @@
         - Every good idea that you see has probably been hashed over a dozen times before you see it
         - So if you limit yourself to only brand new things by principle, it would be very hard to build a company or product
         - At the same time, it is not good enough to do something better by 10% or 20% or even 50%. You have to be a game-changer. You have to be multiple orders of magnitudes better at some task or something of value in order to make people switch.
-    * Google Desktop failed because being 20% faster at search compared to your OS was not good enough. (and then there was all that indexing headache)
+    * Google Desktop failed because being 20% faster at search compared to your OS was not good enough to make people switch (and go through all that indexing headache)
 10. How should one balance time and effort in innovation (orders-of-magnitude improvements, doing what no one else seems to be doing) and business-as-usual (taking care of feature-completeness, building incremental features) in products? [~47:00m]
     * There is no universally good answer to this.
-    * A do-or-die scrappy small startup? Look ahead and innovate. Find the one thing you can do 10x better and focus on that.
+    * A do-or-die scrappy small startup about to die in 12 months? Look ahead and innovate. Find the one thing you can do 10x better and focus on that.
     * A larger company with more mature product? Split your resources 50-50.
         - Start listening to your users
     * Innovation
@@ -138,8 +138,8 @@
     * Outsourcing surveys later on is sometimes alright
 9. How do you do product roadmap? [~68:15m]
     * Rose Yao does product roadmaps for 3 to 6 months (detailed)
-        - they can be specific
-        - one be accountable
+        - they should be specific
+        - it helps one be accountable
     * Product visions make sense at year-long stage (high level statements)
 10. What 3 apps/tools can you not live without as a PM? [~70:10m]
     * Sketch for wireframing
