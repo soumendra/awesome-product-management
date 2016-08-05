@@ -35,9 +35,12 @@ A compelling vision articulates how the world would be a better place if you suc
 
 A template: customer-centric vision narrative
 
-Lack of clear thinking sometimes hides behind bullet points in presentations. Forcing someone to articulate vision (with a narrative) can ensure clear thinking (Jeff Bezos does this in Amazon).
-    * Example: Shareholder letters from Jeff Bezos
-    * Example: Pre-launch employee memo from Stewart Butterfield
+Lack of clear thinking sometimes hides behind bullet points in presentations. Forcing someone to articulate vision (with a narrative) can ensure clear thinking.
+
+Jeff Bezos asks everyone in Amazon to write six pages of customer-centric narrative to support their proposals. Writing six-page narratives would be very hard without having clear thinking.
+
+* Example: [Shareholder letters from Jeff Bezos](http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-reportsannual)
+* Example: Pre-launch employee memo from Stewart Butterfield
 
 ### Great examples
 
