@@ -52,6 +52,12 @@ Some more examples:
 
 Here are some examples of vision (mission statements)
 * Uber: [Transportation as reliable as running water](https://newsroom.uber.com/australia/transportation-that-is-as-reliable-as-running-water/) ([and the TED talk by Travis Kalanick talking about Uber Pool](https://www.ted.com/talks/travis_kalanick_uber_s_plan_to_get_more_people_into_fewer_cars?language=en) - [the transcript](https://www.ted.com/talks/travis_kalanick_uber_s_plan_to_get_more_people_into_fewer_cars/transcript?language=en))
+* Amazon:
+    - On the webpage (http://www.amazon.in/, http://www.amazon.com/), in *About Us* section
+        At Amazon, our vision is to be Earth's most customer centric company;
+    - Pursuit of Growth over Profit
+        * *Your margin is my profit.*
+        * Amazon didnot post profits for the longest time, choosing to pursue growth instead.
 
 ### Great examples
 
