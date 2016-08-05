@@ -39,11 +39,11 @@ Lack of clear thinking sometimes hides behind bullet points in presentations. Fo
 
 Jeff Bezos asks everyone in Amazon to write six pages of customer-centric narrative to support their proposals. Writing six-page narratives would be very hard without having clear thinking.
 
-** https://www.linkedin.com/pulse/beauty-amazons-6-pager-brad-porter
-** https://www.quora.com/How-are-the-six-page-narratives-structured-in-Jeff-Bezos-S-Team-meetings
-** https://www.quora.com/What-is-the-format-used-when-composing-an-Amazon-6-page-narratively-structured-memo
-** http://blog.idonethis.com/jeff-bezos-self-discipline-writing/
-** http://www.forbes.com/sites/drewhansen/2013/03/07/how-jeff-bezos-makes-big-decisions-at-amazon/#71a709ae4b5b
+* https://www.linkedin.com/pulse/beauty-amazons-6-pager-brad-porter
+* https://www.quora.com/How-are-the-six-page-narratives-structured-in-Jeff-Bezos-S-Team-meetings
+* https://www.quora.com/What-is-the-format-used-when-composing-an-Amazon-6-page-narratively-structured-memo
+* http://blog.idonethis.com/jeff-bezos-self-discipline-writing/
+* http://www.forbes.com/sites/drewhansen/2013/03/07/how-jeff-bezos-makes-big-decisions-at-amazon/#71a709ae4b5b
 
 Some more examples:
 
