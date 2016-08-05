@@ -24,7 +24,7 @@ Product Managers drive the
 * execution
 of their product.
 
-Product managers drive, but not own (because they don't actually do the work themselves).
+Product managers drive, but not own (because they don't actually do the work themselves). Most managerial roles involve some elements of the responsibilities listed above, but the fact that product managers drive, but don't own the initiatives, is a key differentiator.
 
 ## Vision [~14:00m]
 
@@ -39,8 +39,19 @@ Lack of clear thinking sometimes hides behind bullet points in presentations. Fo
 
 Jeff Bezos asks everyone in Amazon to write six pages of customer-centric narrative to support their proposals. Writing six-page narratives would be very hard without having clear thinking.
 
-* Example: [Shareholder letters from Jeff Bezos](http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-reportsannual)
-* Example: Pre-launch employee memo from Stewart Butterfield
+** https://www.linkedin.com/pulse/beauty-amazons-6-pager-brad-porter
+** https://www.quora.com/How-are-the-six-page-narratives-structured-in-Jeff-Bezos-S-Team-meetings
+** https://www.quora.com/What-is-the-format-used-when-composing-an-Amazon-6-page-narratively-structured-memo
+** http://blog.idonethis.com/jeff-bezos-self-discipline-writing/
+** http://www.forbes.com/sites/drewhansen/2013/03/07/how-jeff-bezos-makes-big-decisions-at-amazon/#71a709ae4b5b
+
+Some more examples:
+
+* [Shareholder letters from Jeff Bezos](http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-reportsannual)
+* Pre-launch employee memo from Stewart Butterfield - [Probably this one!](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d#.sd3325sze)
+
+Here are some examples of vision (mission statements)
+* Uber: [Transportation as reliable as running water](https://newsroom.uber.com/australia/transportation-that-is-as-reliable-as-running-water/) ([and the TED talk by Travis Kalanick talking about Uber Pool](https://www.ted.com/talks/travis_kalanick_uber_s_plan_to_get_more_people_into_fewer_cars?language=en) - [the transcript](https://www.ted.com/talks/travis_kalanick_uber_s_plan_to_get_more_people_into_fewer_cars/transcript?language=en))
 
 ### Great examples
 
