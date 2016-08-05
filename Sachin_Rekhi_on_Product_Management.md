@@ -48,16 +48,24 @@ Jeff Bezos asks everyone in Amazon to write six pages of customer-centric narrat
 Some more examples:
 
 * [Shareholder letters from Jeff Bezos](http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-reportsannual)
-* Pre-launch employee memo from Stewart Butterfield - [Probably this one!](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d#.sd3325sze)
+    - [the first one in 1997](http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf)
+* [Pre-launch employee memo from Stewart Butterfield](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d#.sd3325sze)
 
 Here are some examples of vision (mission statements)
 * Uber: [Transportation as reliable as running water](https://newsroom.uber.com/australia/transportation-that-is-as-reliable-as-running-water/) ([and the TED talk by Travis Kalanick talking about Uber Pool](https://www.ted.com/talks/travis_kalanick_uber_s_plan_to_get_more_people_into_fewer_cars?language=en) - [the transcript](https://www.ted.com/talks/travis_kalanick_uber_s_plan_to_get_more_people_into_fewer_cars/transcript?language=en))
 * Amazon:
-    - On the webpage (http://www.amazon.in/, http://www.amazon.com/), in *About Us* section
-        At Amazon, our vision is to be Earth's most customer centric company;
+    - At Amazon, our vision is to be Earth's most customer centric company;
+        * On the webpage (http://www.amazon.in/, http://www.amazon.com/), in *About Us* section    
     - Pursuit of Growth over Profit
         * *Your margin is my profit.*
         * Amazon didnot post profits for the longest time, choosing to pursue growth instead.
+
+More on Bezos
+* http://www.businessinsider.in/When-I-Asked-Jeff-Bezos-The-Tough-Questions-No-Profits-The-Book-Controversies-The-Phone-Flop-He-Proved-Why-Hes-A-Genius-CEO/articleshow/45507079.cms
+* http://www.latimes.com/business/la-fi-0410-on-leadership-bezos-20160410-story.html
+* http://www.inc.com/bill-murphy-jr/how-amazon-turned-a-big-failure-into-an-even-bigger-hit.html
+* http://crosscut.com/2014/06/amazon-way-excerpt-john-rossman/
+
 
 ### Great examples
 
@@ -69,7 +77,7 @@ Elon Musk - "It is important that humanitary(?) become an inter-planetary specie
 
 You need to be constantly repeating your vision for the exact same reason.
 
-Are you succeeding at it? Ask a team-member what the product is about and where it is going and see how many times they repeat your vision using your words.
+Are you succeeding at it? Here is a test: ask a team-member what the product is about and where it is going and see how many times they repeat your vision using your words.
 
 
 ## Strategy
