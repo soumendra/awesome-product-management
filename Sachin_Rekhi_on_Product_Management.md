@@ -56,8 +56,8 @@ Here are some examples of vision (mission statements)
 * Amazon:
     - At Amazon, our vision is to be Earth's most customer centric company;
         * On the webpage (http://www.amazon.in/, http://www.amazon.com/), in *About Us* section    
-    - Pursuit of Growth over Profit
-        * *Your margin is my profit.*
+    - Your margin is my profit.
+        * Pursuit of Growth over Profit
         * Amazon didnot post profits for the longest time, choosing to pursue growth instead.
 
 More on Bezos
@@ -86,7 +86,7 @@ Are you succeeding at it? Here is a test: ask a team-member what the product is 
 
 A compelling strategy articulates in detail exactly how you are going to dominate your market.
 
-A vision should be stable, but your strategy need to be **iterated on** and **refined** until you find product-market fit.
+A **vision** should be **stable**, but your **strategy** need to be **iterated on** and **refined** until you find product-market fit.
 
 Ditch the business plan; instead focus on a few-page summary that captures each of your critical **product-market fit hypotheses**.
 
@@ -94,8 +94,9 @@ Ditch the business plan; instead focus on a few-page summary that captures each 
 
 * Target audience [~23:00m]
     - Who is your ideal customer who is going to love your product?
-        * Not the VC-pitchdeck version
+        * Not the VC-pitchdeck version, where you try to demonstrate the largest possible [target audience](https://en.wikipedia.org/wiki/Total_addressable_market)
         * Presents a nice example with LinkedIn
+            - When launching LinkedIn Sales Navigator, they went for B2B Enterprise Hunters ([Hunters vs Farmers 1](https://www.linkedin.com/pulse/hunter-vs-farmer-can-still-exist-todays-social-world-nicola-creary) [Hunters vs Farmers 2](https://www.linkedin.com/pulse/hunters-vs-farmers-still-relevant-sales-mark-birch))
 * Problem you are solving
     - It's important to articulate the problem independent of the solution
     - Is it nice to have or need to have? (vitamins vs pain-killers)
