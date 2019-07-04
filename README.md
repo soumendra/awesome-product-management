@@ -1,8 +1,8 @@
-# awesome-product-management
+# On product management in general
 
 A list of resources and notes on Product Management
 
-# Useful Resources
+## Links
 
 * https://github.com/tron1991/open-product-management
 * https://github.com/cornelltech/product-management
