@@ -15,7 +15,8 @@ One should be able to evaluate the code (quality), trade-offs and complexities.
 * Linting
 * Commenting
 * [Containerisation vs Virtualisation – what’s the difference?](http://www.serverspace.co.uk/blog/containerisation-vs-virtualisation-whats-the-difference)
-
+* [DRY, KISS and YAGNI are good principles to keep in mind](https://dev.to/luminousmen/what-are-the-best-software-engineering-principles--3p8n)
+* Good to know about [LoD](https://en.wikipedia.org/wiki/Law_of_Demeter) and [POLA](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 
 # On product management in general
 
